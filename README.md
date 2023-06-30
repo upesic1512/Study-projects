@@ -1,1 +1,1 @@
-# Study-projects
+# Python games
